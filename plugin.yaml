@@ -1,0 +1,17 @@
+name: session-progress
+label: Session Progress
+version: "1.0.0"
+description: Show a progress bar, measured pace, and ETA for the focused Hermes Desktop session.
+author: ormeilu
+manifest_version: 2
+api_version: 1
+kind: standalone
+license: MIT
+homepage: https://github.com/ormeilu/hermes-session-progress
+requires_hermes: ">=0.23.2"
+tags: [desktop, sessions, progress]
+capabilities: []
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
+requires_env: []
